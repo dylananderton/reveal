@@ -1095,7 +1095,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
+@media (max-width: 991px) and (min-width: 769px) {
+  .h2-creating {
+    margin-top: 20px;
+  }
+}
+
 @media (max-width: 768px) {
+
   .back-to-top {
     bottom: 15px;
   }
